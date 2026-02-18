@@ -18,8 +18,8 @@ Options:
   -h, --help        Show this help
 
 Example:
-  pi-progression-conclude --project myapp --topic "ECS Task Placement"
-  pi-progression-conclude --project myapp --topic "ECS Task Placement" --park
+  pi-progression-conclude --project myapp --topic "Database Migration"
+  pi-progression-conclude --project myapp --topic "Database Migration" --park
 EOF
 }
 

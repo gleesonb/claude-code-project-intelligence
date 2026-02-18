@@ -26,11 +26,11 @@ Options:
 If --file is not provided, creates a stub document with the title as a header.
 
 Example:
-  pi-progression-add --project myapp --topic "ECS Task Placement" \\
+  pi-progression-add --project myapp --topic "Database Migration" \\
     --number 0 --title "Initial Analysis" --type baseline --file ./analysis.md
 
-  pi-progression-add --project myapp --topic "ECS Task Placement" \\
-    --number 2 --title "Corrected Placement" --type correction --corrects 1
+  pi-progression-add --project myapp --topic "Database Migration" \\
+    --number 2 --title "Corrected Approach" --type correction --corrects 1
 EOF
 }
 

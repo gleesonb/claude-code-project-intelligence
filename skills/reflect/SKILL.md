@@ -107,7 +107,7 @@ Open Questions:
   - Would binpack affect availability during AZ failures?
   - What's the latency impact of same-AZ placement?
 
-Updated: ~/.claude/knowledge/myapp/progressions/ecs-task-placement/progression.yaml
+Updated: ~/.claude/knowledge/myapp/progressions/database-migration/progression.yaml
 ```
 
 ## Guidelines

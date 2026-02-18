@@ -17,7 +17,7 @@ Options:
   -h, --help        Show this help
 
 Example:
-  pi-progression-init --project myapp --topic "ECS Task Placement Strategy"
+  pi-progression-init --project myapp --topic "Database Migration Strategy"
 EOF
 }
 

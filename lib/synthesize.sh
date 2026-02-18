@@ -324,7 +324,7 @@ Every skill body MUST follow this template:
 ## What to do
 <Numbered steps with EXACT commands, file paths, config values.
 Not "check the config" but "edit src/config/db.ts, set pool.max to 20".
-Not "deploy the service" but "run: aws ecs update-service --cluster prod --service api --force-new-deployment">
+Not "deploy the service" but "run: aws ecs update-service --cluster my-cluster --service my-service --force-new-deployment">
 
 ## Gotchas
 <Bullet list of specific failure modes discovered in sessions.

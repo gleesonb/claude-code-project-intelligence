@@ -21,7 +21,7 @@ If --topic is given, shows full details including documents.
 
 Example:
   pi-progression-status --project myapp
-  pi-progression-status --project myapp --topic "ECS Task Placement"
+  pi-progression-status --project myapp --topic "Database Migration"
 EOF
 }
 
